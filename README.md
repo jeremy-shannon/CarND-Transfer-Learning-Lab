@@ -20,3 +20,8 @@ network can be one of 'vgg', 'inception', or 'resnet'
 dataset can be on of 'cifar10' or 'traffic'
 
 How will the pretrained model perform on the new datasets?
+
+## Dataset locations:
+- [vgg](https://d17h27t6h515a5.cloudfront.net/topher/2016/November/5834b432_vgg-100/vgg-100.zip)
+- [resnet](https://d17h27t6h515a5.cloudfront.net/topher/2016/November/5834b634_resnet-100/resnet-100.zip)
+- [inception](https://d17h27t6h515a5.cloudfront.net/topher/2016/November/5834b498_inception-100/inception-100.zip)
